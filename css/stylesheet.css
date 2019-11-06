@@ -93,7 +93,7 @@ a:visited{
 /************************Section1***********************/
 
 .news {
-	background-image: url("../images/img_header-bg.jpeg");
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../images/img_header-bg.jpeg");
 	height: 404px;
 	background-attachment: fixed;
 	background-position: bottom;
@@ -122,6 +122,7 @@ a:visited{
 	border-radius: 3px;
 	background-color: #89ca62;
 	margin-right: 20px;
+	padding: 0 6px;
 }
 
 .Articles-link {
